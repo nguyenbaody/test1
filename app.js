@@ -10,3 +10,6 @@ Branch_1 edit
 //>>>>>>> master
 
 merge conflict resolve
+
+
+3rd change, then push from VSCode console
